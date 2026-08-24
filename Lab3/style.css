@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+#container {
+    width: 80%;
+    margin: auto;
+}
+
+#Logo {
+    background-color: bisque;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+#Nav {
+    background-color: beige;
+    padding: 25px;
+    text-align: center;
+}
+
+#Banner {
+    background-color: blanchedalmond;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#main {
+    background-color: bisque;
+    
+}
+
+#side {
+    background-color: brown;
+    width: 30%;
+    margin-top: 10px;
+    min-height: 70%;
+    float: left;
+}
+
+#content {
+    background-color: beige;
+    float: right;   
+     
+}
+
+#content2 {
+    background-color:azure;
+    float: right;
+}
+
+#footer {
+    position: fixed;
+    background-color: brown;
+    text-align: center;
+    margin-top: 5px;
+    bottom: 0px;
+}
+
+
+
+
+
+
+
+
